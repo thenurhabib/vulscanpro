@@ -20,7 +20,7 @@
   </a>
 </p>
 
-![multi xss](./img/ss1.png)
+![pics](./img/ss1.png)
 
 <br>
 
@@ -69,7 +69,9 @@ VulScanPro is An Intelligent Automated Framework to scan a domain and perform va
 `This Framework Also crawl URLs and JS Files for sensitive information.`
 
 <br>
+
 ### Installation
+
 ```bash
 git clone https://www.github.com/thenurhabib/vulscanpro
 cd vulscanpro

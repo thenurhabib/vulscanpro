@@ -12,12 +12,16 @@
   <a href="https://github.com/thenurhabib/vulscanpro/releases">
     <img src="https://img.shields.io/github/release/thenurhabib/vulscanpro.svg">
   </a>
-  <a href="https://travis-ci.com/thenurhabib/vulscanpro">
-    <img src="https://img.shields.io/travis/com/thenurhabib/vulscanpro.svg">
-  </a>
+ 
   <a href="https://github.com/thenurhabib/vulscanpro/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/vulscanpro.svg">
   </a>
+  
+  <a href="https://github.com/thenurhabib/vulscanpro/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/thenurhabib/vulscanpro">
+  </a>
+  
+
 </p>
 
 ![pics](./img/ss1.png)

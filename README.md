@@ -124,6 +124,6 @@ You can contribute in following ways:
 - Searching Exploits
 - Give suggestions **(Ideas)** to make it better
 
-Do you want to have a conversation in private? email me : Bensaad.tig@gmail.com
+Do you want to have a conversation in private? email me : thenurhabib@gmail.com
 
 ***VulScanPro*** is licensed under [GPL-3.0 License](https://github.com/thenurhabib/vulscanpro/blob/master/LICENSE)
